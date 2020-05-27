@@ -2,10 +2,6 @@ body {
   font-family: 'Open Sans',Arial ,sans-serif;
 }
 
-.violet {
-  background-color: #660066;
-  font-family: "Oswald", Arial, sans-serif;
-}
 
 .navbar {
   font-family: "Oswald", Arial, sans-serif;
@@ -17,7 +13,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-bottom: 10rem;
+  padding-bottom: 10em;
 }
 
  h1, h2, h3, h4, h5 {
@@ -57,7 +53,7 @@ header {
    border-color: #FFFFFF;
    width: 20%;
    margin-top: 0;
-   margin-bottom: 0;
+   margin-bottom: 1.5em;
    padding-top: 0;
    padding-bottom: 0;
  }
